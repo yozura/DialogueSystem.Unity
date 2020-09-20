@@ -1,2 +1,2 @@
 # DialogSystem.Unity
-About DialogSytem Scripts
+다이얼로그 시스템에 대해 배운 내용을 저장해놓았습니다.
