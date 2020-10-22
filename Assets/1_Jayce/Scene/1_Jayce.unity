@@ -717,9 +717,9 @@ MonoBehaviour:
     sentences:
     - "\uAC00\uB9CC\uAC00\uB9CC"
     - "\uBCF4\uB2C8\uBCF4\uB2C8"
-    - "\uBDF0\uC9C0\uBDF0\uC9C0"
-    - "\uC96C\uC9C0\uC96C\uC9C0"
-    - "\uB531\uB300\uB531\uB300"
+    - "\uB9C8\uC694\uB124\uC988"
+    - "\uB0E0\uB0E0\uB0E0\uB0E0"
+    - "\uAE40\uCE58\uCC38\uCE58"
 --- !u!1 &1387734656
 GameObject:
   m_ObjectHideFlags: 0
